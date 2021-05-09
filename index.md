@@ -7,5 +7,5 @@ All files: [here](/directory.html)
 
 ## A2 Lesson 2 (May 10th, 2021)
 
-- [Answers](</files/Lesson2-Answers.docx>)
+- [Answers](</files/Lesson 2-Answers.pdfx>)
 - [Handout](</files/Lesson2-Handout.pdf>)
