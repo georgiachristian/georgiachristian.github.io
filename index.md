@@ -9,3 +9,8 @@ All files: [here](/directory.html)
 
 - [Answers](</files/Lesson 2-Answers.pdf>)
 - [Handout](</files/Lesson2-Handout.pdf>)
+
+## A2 Lesson 3 (May 12th, 2021)
+
+- [Passive Voice Examples](</files/Lesson3 Passive Voice Examples.pdf>)
+- [Handout](</files/Lesson3-Handout.pdf>)
