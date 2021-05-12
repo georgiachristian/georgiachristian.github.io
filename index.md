@@ -12,5 +12,5 @@ All files: [here](/directory.html)
 
 ## A2 Lesson 3 (May 12th, 2021)
 
-- [Passive Voice Examples](</files/Lesson3 Passive Voice Examples.pdf>)
+- [Passive Voice](</files/Lesson3 Passive Voice Examples.pdf>)
 - [Handout](</files/Lesson3-Handout.pdf>)
