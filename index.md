@@ -20,3 +20,7 @@ All files: [here](/directory.html)
 - [Matching Task](</files/Lesson4-Matching task.pdf>)
 - [Script](</files/Lesson4-Script.pdf>) 
 - [Handout](</files/Lesson4-Handout.pdf>)
+
+## B1 Reading Lesson
+
+- [Newspaper Article](</files/Newspaper Article.docx>)
