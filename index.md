@@ -23,4 +23,4 @@ All files: [here](/directory.html)
 
 ## B1 Reading Lesson
 
-- [Newspaper Article](</files/Newspaper Article.docx>)
+- [Newspaper Article](</files/Newspaper Article.pdf>)
